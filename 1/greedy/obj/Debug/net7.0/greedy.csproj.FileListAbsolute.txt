@@ -1,0 +1,14 @@
+C:\Users\amanda\Desktop\DAA\Informe\1\greedy\bin\Debug\net7.0\greedy.exe
+C:\Users\amanda\Desktop\DAA\Informe\1\greedy\bin\Debug\net7.0\greedy.deps.json
+C:\Users\amanda\Desktop\DAA\Informe\1\greedy\bin\Debug\net7.0\greedy.runtimeconfig.json
+C:\Users\amanda\Desktop\DAA\Informe\1\greedy\bin\Debug\net7.0\greedy.dll
+C:\Users\amanda\Desktop\DAA\Informe\1\greedy\bin\Debug\net7.0\greedy.pdb
+C:\Users\amanda\Desktop\DAA\Informe\1\greedy\obj\Debug\net7.0\greedy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amanda\Desktop\DAA\Informe\1\greedy\obj\Debug\net7.0\greedy.AssemblyInfoInputs.cache
+C:\Users\amanda\Desktop\DAA\Informe\1\greedy\obj\Debug\net7.0\greedy.AssemblyInfo.cs
+C:\Users\amanda\Desktop\DAA\Informe\1\greedy\obj\Debug\net7.0\greedy.csproj.CoreCompileInputs.cache
+C:\Users\amanda\Desktop\DAA\Informe\1\greedy\obj\Debug\net7.0\greedy.dll
+C:\Users\amanda\Desktop\DAA\Informe\1\greedy\obj\Debug\net7.0\refint\greedy.dll
+C:\Users\amanda\Desktop\DAA\Informe\1\greedy\obj\Debug\net7.0\greedy.pdb
+C:\Users\amanda\Desktop\DAA\Informe\1\greedy\obj\Debug\net7.0\greedy.genruntimeconfig.cache
+C:\Users\amanda\Desktop\DAA\Informe\1\greedy\obj\Debug\net7.0\ref\greedy.dll

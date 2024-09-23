@@ -1,0 +1,14 @@
+C:\Users\amanda\Desktop\DAA\Informe\2\dp\bin\Debug\net7.0\dp.exe
+C:\Users\amanda\Desktop\DAA\Informe\2\dp\bin\Debug\net7.0\dp.deps.json
+C:\Users\amanda\Desktop\DAA\Informe\2\dp\bin\Debug\net7.0\dp.runtimeconfig.json
+C:\Users\amanda\Desktop\DAA\Informe\2\dp\bin\Debug\net7.0\dp.dll
+C:\Users\amanda\Desktop\DAA\Informe\2\dp\bin\Debug\net7.0\dp.pdb
+C:\Users\amanda\Desktop\DAA\Informe\2\dp\obj\Debug\net7.0\dp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amanda\Desktop\DAA\Informe\2\dp\obj\Debug\net7.0\dp.AssemblyInfoInputs.cache
+C:\Users\amanda\Desktop\DAA\Informe\2\dp\obj\Debug\net7.0\dp.AssemblyInfo.cs
+C:\Users\amanda\Desktop\DAA\Informe\2\dp\obj\Debug\net7.0\dp.csproj.CoreCompileInputs.cache
+C:\Users\amanda\Desktop\DAA\Informe\2\dp\obj\Debug\net7.0\dp.dll
+C:\Users\amanda\Desktop\DAA\Informe\2\dp\obj\Debug\net7.0\refint\dp.dll
+C:\Users\amanda\Desktop\DAA\Informe\2\dp\obj\Debug\net7.0\dp.pdb
+C:\Users\amanda\Desktop\DAA\Informe\2\dp\obj\Debug\net7.0\dp.genruntimeconfig.cache
+C:\Users\amanda\Desktop\DAA\Informe\2\dp\obj\Debug\net7.0\ref\dp.dll

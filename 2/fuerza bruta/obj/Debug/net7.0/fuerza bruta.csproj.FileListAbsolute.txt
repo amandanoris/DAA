@@ -1,0 +1,14 @@
+C:\Users\amanda\Desktop\DAA\Informe\2\fuerza bruta\bin\Debug\net7.0\fuerza bruta.exe
+C:\Users\amanda\Desktop\DAA\Informe\2\fuerza bruta\bin\Debug\net7.0\fuerza bruta.deps.json
+C:\Users\amanda\Desktop\DAA\Informe\2\fuerza bruta\bin\Debug\net7.0\fuerza bruta.runtimeconfig.json
+C:\Users\amanda\Desktop\DAA\Informe\2\fuerza bruta\bin\Debug\net7.0\fuerza bruta.dll
+C:\Users\amanda\Desktop\DAA\Informe\2\fuerza bruta\bin\Debug\net7.0\fuerza bruta.pdb
+C:\Users\amanda\Desktop\DAA\Informe\2\fuerza bruta\obj\Debug\net7.0\fuerza bruta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amanda\Desktop\DAA\Informe\2\fuerza bruta\obj\Debug\net7.0\fuerza bruta.AssemblyInfoInputs.cache
+C:\Users\amanda\Desktop\DAA\Informe\2\fuerza bruta\obj\Debug\net7.0\fuerza bruta.AssemblyInfo.cs
+C:\Users\amanda\Desktop\DAA\Informe\2\fuerza bruta\obj\Debug\net7.0\fuerza bruta.csproj.CoreCompileInputs.cache
+C:\Users\amanda\Desktop\DAA\Informe\2\fuerza bruta\obj\Debug\net7.0\fuerza bruta.dll
+C:\Users\amanda\Desktop\DAA\Informe\2\fuerza bruta\obj\Debug\net7.0\refint\fuerza bruta.dll
+C:\Users\amanda\Desktop\DAA\Informe\2\fuerza bruta\obj\Debug\net7.0\fuerza bruta.pdb
+C:\Users\amanda\Desktop\DAA\Informe\2\fuerza bruta\obj\Debug\net7.0\fuerza bruta.genruntimeconfig.cache
+C:\Users\amanda\Desktop\DAA\Informe\2\fuerza bruta\obj\Debug\net7.0\ref\fuerza bruta.dll
